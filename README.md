@@ -1,122 +1,85 @@
-<!--- 
-Open Source Assistive Technology: GitHub Readme Template
- --->
+# Toothpaste Squeezer
+The Toothpaste Squeezer is an inexpensive 3D-printed device that aids the removal of toothpaste. This device may benefit those with limited hand dexterity or those who find it challenging to get the last bit of toothpaste out of the tube.
 
-<!---
-INSTRUCTIONS
-This is a markdown template for creating the README.md file in a GitHub repository. This file is rendered and displayed automatically when someone visits the repository.
+This design was created by [Spidersky1489](https://www.printables.com/social/54495-spidersky1489/about) and posted on [Printables.com](https://www.printables.com/model/26897-toothpaste-squeezer/files).
 
-This document includes helper text that will not be displayed when rendered. Any text between the less-than sign + exclamation mark + three hyphen-minus (<!---) and matching three hyphen-minus + greater-than sign will not be displayed. This helper text can be deleted once the corresponding section is completed.
+<img src="Photos/Toothpaste_Squeezer_Operation.jpg" width="500" alt="Picture of a green 3d printed toothpaste squeezer inserted midway along a tube of toothpaste.">
 
- --->
- 
- <!--- 
-TITLE
-Should match the name of the GitHub repository. Choose something descriptive rather than whimsical. 
- --->
- # (todo:Project Title)
-
-<!--- 
-SUMMARY
-A brief summary of the project. What it does, who it is for, how much it costs.
- --->
-The (todo:Project Title) is for making it easier to document Open-Source Assistive Technology devices. It is intended for use by makers. The device is  comprised of off-the-shelf electronics and 3D printed parts. The overall cost of materials is about $8 (plus $8 for component shipping).
-
-<!--- 
-PHOTO
-
- --->
-![Image Description](Photos/Device_Photo.jpg)
-
-<!--- 
 ## More info at
- - [Makers Making Change Forum Thread](TBD) 
- - [Makers Making Change Project Page](TBD)
- --->
+- [Makers Making Change Project Page](https://makersmakingchange.com/project/toothpaste-squeezer/)
+
+
+## How to Obtain a Toothpase Squeezer
+### 1. Do it Yourself (DIY) or Do it Together (DIT)
+
+This is an open-source assistive technology, so anyone is free to build it. All of the files and instructions required to build the Toothpase Squeezer are contained within this repository. Refer to the Maker Checklist below.
+
+### 2. Request a build of this device
+
+If you would like to obtain a Toothpase Squeezer , you may submit a build request through the [MMC Library Page](https://makersmakingchange.com/project/toothpaste-squeezer/). The requestor is responsible for the cost of materials and any shipping.
+
+### 3. How to build this device for someone else
+
+If you have the skills and equipment to build this device, and would like to donate your time to create the switch for someone who needs it, visit the [MMC Maker Wanted](https://makersmakingchange.com/maker-wanted/) section.
 
 
 ## Getting Started
-<!--- 
-Include an overall idea of what major steps are required to build the device.
- --->
 
-### 1. Order the Off-The-Shelf Components
-The [Bill of Materials](/Documentation/ProductTitle_BOM_v0.1.xlsx) lists all of the parts and components required to build the (todo:Project Title). The electronic components may be available locally, but will probably need to be ordered online. 
+### 1. Read the Makers Checklist
 
-### 2. Print the 3D Printable components
-Print the components for the switch tester case and choose an option for the case.
+The Makers Checklist contains a list of tasks to complete to build the device.
 
-All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing/) folder.
+### 2. Print the 3D Printable component
 
-### 3. Assemble the (todo:Product Title)
-Reference the [assembly guide](/Documentation/ProductTitle_Assembly_Guide_v1.0.pdf) for the tools and steps required to build each portion.
+The print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing/) folder.
+
 
 ## Files
-<!---
-FILES
-This section includes all the information and files required to build and modify the device, including documentation, design files, and build files. 
---->
-
 ### Documentation
-<!---
-DOCUMENTATION
+| Document             | Version | Link |
+|----------------------|---------|------|
+| Design Rationale     | 1.0     | [Toothpaste_Squeezer_Design_Rationale](/Documentation/Device-Name_Design_Rationale_v1.0.pdf)     |
+| Maker Checklist      | 1.0     | [Toothpaste_Squeezer_Maker_Checklist](/Documentation/Device-Name_Maker_Checklist_v1.0.pdf)     |
+| Bill of Materials    | 1.0     | [Toothpaste_Squeezer_Bill_of_Materials](/Documentation/Device-Name_BOM_v1.0.xlsx)     |
+| 3D Printing Guide    | 1.0     | [Toothpaste_Squeezer_3D_Printing_Guide](/Documentation/Device-Name_3D_Printing_Guide_v1.0.pdf)     |
+| Assembly Guide       | n/a     | No Assembly Required.     |
+| User Guide           | 1.0     | [Toothpaste_Squeezer_User_Guide](/Documentation/Device-Name_User_Guide_v1.0.pdf)    |
+| Changelog            | 1.0     | [Toothpaste_Squeezer_Changelog](/Documentation/Device-Name_Changelog_v1.0.pdf)     |
 
---->
-| Document | Version | Link |
-|----------|---------|------|
-| Design Specifications| 1.0 | [ProjectTitle_Design_Specifications](/Documentation/ProjectTitle_Design_Rationale_v0.1.pdf) |
-| Design Rationale     | 1.0 | [ProjectTitle_Design_Rationale](/Documentation/ProjectTitle_Design_Rationale_v0.1.pdf) |
-| Bill of Materials    | 1.0 | [ProjectTitle_BOM](/Documentation/ProjectTitle_BOM_v0.1.xlsx) |
-| Assembly Guide       | 1.0 | [ProjectTitle_Instructions](/Documentation/ProjectTitle_Assembly_Guide_v0.1.pdf) |
-| Maker Checklist      | 1.0 | [ProjectTitle_Checklist](/Documentation/ProjectTitle_Maker_Checklist_v0.1.pdf) |
-| User Quick Guide          | 1.0 | [ProjectTitle_Quick_Guide](/Documentation/ProjectTitle_Quick_Guide_v0.1.pdf)           |
-| Changelog            | 1.0 | [ProjectTitle_Changelog](/Documentation/ProjectTitle_Changelog_v0.1.pdf)               |
-
+<!===>
 ### Design Files
-<!---
-DESIGN FILES
-If possible, include a copy of original design files to facilitate easy editing and customization.
---->
- - [CAD Files](/Design_Files/CAD)
- - [PCB Files](/Design_Files/PCB)
+[CAD Files](/Design_Files)
 
 ### Build Files
-<!---
-BUILD FILES
-This section i
---->
  - [3D Printing Files](/Build_Files/3D_Printing)
- - [Custom PCB Files](/Build_Files/Custom_PCB)
- - [V1.0 3MF](/Build_Files/3D_Printing/ProductTitle_v1.0.3mf)
-
-## License
-<!---
-LICENSE
-Choose an appropriate license. We recommend an open-source hardware compatible license.
---->
-Everything needed or used to design, make, test, or prepare the (todo: Project Title) is licensed under the CERN 2.0 Permissive license <https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2> (CERN-OHL-P).
-
-Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the (todo: Project Title) are published under a Creative Commons Attribution-ShareAlike 4.0 license <https://creativecommons.org/licenses/by-sa/4.0/> (CC BY-SA 4.0).
 
 ## Attribution
-<!---
-ATTRIBUTION
-Include any information related to the development of the design. This may include who identified the initial challenge, who contributed to the design
---->
+Design: [Spidersky1489](https://www.printables.com/social/54495-spidersky1489/about)
 
+Documentation by Neil Squire / Makers Making Change.
+
+## License
+The design of the [Toothpaste Squeezer](https://www.printables.com/model/26897-toothpaste-squeezer) by Spidersky1489 is licensed under [Creative Commons (International License) Public Domain](http://creativecommons.org/publicdomain/zero/1.0/).
+
+Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Toothpase Squeezer are published under a Creative Commons Attribution-ShareAlike 4.0 license https://creativecommons.org/licenses/by-sa/4.0/ (CC BY-SA 4.0).
+
+
+---
 
 ## About Makers Making Change
 <img src="https://www.makersmakingchange.com/wp-content/uploads/logo/mmc_logo.svg" width="500" alt="Makers Making Change Logo">
 
-Makers Making Change is an initiative of [Neil Squire](https://www.neilsquire.ca/), a Canadian non-profit that uses technology, knowledge, and passion to empower people with disabilities.
+Makers Making Change is an initiative of [Neil Squire](https://www.neilsquire.ca/), a Canadian non-profit that empowers people with disabilities.
 
-We are committed to cultivating a network of volunteer makers who support people with disabilities in their communities through cost effective assistive technology. Check out our library of free, open-source assistive technologies.
+We are committed to creating a network of volunteer makers who support people with disabilities in their communities through 3D printing assistive devices. Check out our library of free, open-source assistive technologies with parts and build instructions.
 
  - Website: [www.MakersMakingChange.com](https://www.makersmakingchange.com/)
- - [GitHub](https://github.com/makersmakingchange)
- - [Thingiverse](https://www.thingiverse.com/makersmakingchange/about)
+ - GitHub: [https://github.com/makersmakingchange](https://github.com/makersmakingchange)
  - Twitter: [@makermakechange](https://twitter.com/makermakechange)
  - Instagram: [@makersmakingchange](https://www.instagram.com/makersmakingchange)
 
-### Contact Us
-For technical questions, to get involved, or to share your experience we encourage you to visit [MMC Forum](https://forum.makersmakingchange.com) or contact info@makersmakingchange.com
+
+
+## Contact Us
+
+For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Website](https://www.makersmakingchange.com/), [MMC Forum](https://makersmakingchange.com/forum), or contact info@makersmakingchange.com
