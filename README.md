@@ -38,17 +38,17 @@ The print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_P
 ### Documentation
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Design Rationale     | 1.0     | [Toothpaste_Squeezer_Design_Rationale](/Documentation/Device-Name_Design_Rationale_v1.0.pdf)     |
-| Maker Checklist      | 1.0     | [Toothpaste_Squeezer_Maker_Checklist](/Documentation/Device-Name_Maker_Checklist_v1.0.pdf)     |
-| Bill of Materials    | 1.0     | [Toothpaste_Squeezer_Bill_of_Materials](/Documentation/Device-Name_BOM_v1.0.xlsx)     |
-| 3D Printing Guide    | 1.0     | [Toothpaste_Squeezer_3D_Printing_Guide](/Documentation/Device-Name_3D_Printing_Guide_v1.0.pdf)     |
+| Design Rationale     | 1.0     | [Toothpaste_Squeezer_Design_Rationale](/Documentation/Toothpaste_Squeezer__Design_Rationale_v1.0.pdf)     |
+| Maker Checklist      | 1.0     | [Toothpaste_Squeezer_Maker_Checklist](/Documentation/Toothpaste_Squeezer__Maker_Checklist_v1.0.pdf)     |
+| Bill of Materials    | 1.0     | [Toothpaste_Squeezer_Bill_of_Materials](/Documentation/Toothpaste_Squeezer__BOM_v1.0.xlsx)     |
+| 3D Printing Guide    | 1.0     | [Toothpaste_Squeezer_3D_Printing_Guide](/Documentation/Toothpaste_Squeezer__3D_Printing_Guide_v1.0.pdf)     |
 | Assembly Guide       | n/a     | No Assembly Required.     |
-| User Guide           | 1.0     | [Toothpaste_Squeezer_User_Guide](/Documentation/Device-Name_User_Guide_v1.0.pdf)    |
-| Changelog            | 1.0     | [Toothpaste_Squeezer_Changelog](/Documentation/Device-Name_Changelog_v1.0.pdf)     |
+| User Guide           | 1.0     | [Toothpaste_Squeezer_User_Guide](/Documentation/Toothpaste_Squeezer__User_Guide_v1.0.pdf)    |
+| Changelog            | 1.0     | [Toothpaste_Squeezer_Changelog](/Documentation/Toothpaste_Squeezer__Changelog_v1.0.pdf)     |
 
 <!===>
 ### Design Files
-[CAD Files](/Design_Files)
+Not available.
 
 ### Build Files
  - [3D Printing Files](/Build_Files/3D_Printing)
