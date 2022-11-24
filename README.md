@@ -46,7 +46,6 @@ The print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_P
 | User Guide           | 1.0     | [Toothpaste_Squeezer_User_Guide](/Documentation/Toothpaste_Squeezer__User_Guide_v1.0.pdf)    |
 | Changelog            | 1.0     | [Toothpaste_Squeezer_Changelog](/Documentation/Toothpaste_Squeezer__Changelog_v1.0.pdf)     |
 
-<!===>
 ### Design Files
 Not available.
 
